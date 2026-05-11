@@ -33,10 +33,10 @@
   },
   "impression": "他礼貌、冷静、几乎从不失态，却会在谈及苦难、秩序与幸福时显露出近乎神学式的压迫感。",
   "knowledge_sources": [
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\角色经历.md",
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\全台词.md",
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\人物故事.md",
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\语音.md"
+  "reference/角色经历.md",
+  "reference/全台词.md",
+  "reference/人物故事.md",
+  "reference/语音.md"
   ],
   "settings": {
     "spoilers": "full",
