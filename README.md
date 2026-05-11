@@ -363,5 +363,12 @@
 * 只有用户明确要求回顾长期历史，或当前问题强依赖旧档案时，才考虑读取。
 
 ---
+## Disclaimer
+
+This is an unofficial fan-made roleplay skill for personal study and non-commercial use.
+
+《崩坏：星穹铁道》及角色「星期日」的相关版权、商标与原作内容归 miHoYo / HoYoverse 及其权利方所有。本仓库不代表官方立场，也不主张对原作角色、剧情、台词、设定拥有任何权利。
+
+本仓库中的分析、prompt 与二创结构为作者个人研究与创作，不构成官方设定。
 
 
