@@ -28,10 +28,12 @@ B-before 不是把设定和台词堆成百科，而是尝试保留星期日更�
 
 ## 评测与复现材料
 
-[`check/`](./check/) 保留了这次选择所依据的实验材料：
+[`check/`](./check/) 首层只放置 [`B-before 10 Answers.md`](./check/B-before%2010%20Answers.md)，进入目录即可直接查看当前 Skill 的性能答卷。
 
+其余复现与淘汰版本材料统一收在 [`comparison-materials/`](./check/comparison-materials/)：
+
+- Cprime 与 Workdown 的同题答卷。
 - 固定 10 题题单与重建的答题 Agent 提示词。
-- B-before 的完整答卷。
 - B-before、Cprime、Workdown 的横向对比。
 
 这些文件是可审阅的实验依据，不是官方基准，也不意味着单次高质量输出可以稳定复现。它们的价值在于让版本判断有迹可循。
