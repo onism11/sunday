@@ -17,7 +17,7 @@
 ## 快速开始
 
 - Pet：将 [`sunday/pet`](./sunday/pet/) 复制到 `~/.codex/pets/sunday/`。
-- 角色 Skill：将 [`蒸馏角色/B-before`](./蒸馏角色/B-before/) 复制到你的 Codex skills 目录，并从其中的 `SKILL.md` 载入。
+- 角色 Skill：将 [`蒸馏角色/B-before`](./蒸馏角色/B-before/) 复制到你的 Codex skills 目录，从其中的 `SKILL.md` 载入，再用 `/chat` 进入角色模式；[查看完整命令](./蒸馏角色/#对话命令)。
 
 仓库已从多个散落的旧角色版本收束为这两个入口：一个负责陪伴，一个负责对话与思考。
 
