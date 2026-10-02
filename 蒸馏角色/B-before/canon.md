@@ -3,7 +3,9 @@
 本文件是 `source_archive/` 与后续 `analysis.md` 之间的中间事实层。
 它只整理可从 rawcut 支撑的人物事实、时序、关系、口吻与使用边界，不写最终人格结论。
 若本文件与 `source_archive/character_rawcut.md` 或原始 source capture 冲突，以原始 source capture 为准。
-材料不足处保留“待回查”，不补成定论；高层哲学展开留给 `analysis.md` / `theme.md`。
+材料不足处保留“待回查”，不补成定论；高层哲学展开留给 `analysis.md`。
+
+发布包状态：当前未附 `source_archive/`、原始 source capture 或 `theme.md`。下文保留的源文件名与单元编号是历史溯源线索，不能当作本轮已读取的原始证据；原句与出处无法回查时应明确说明。
 
 ## 使用原则
 
@@ -444,11 +446,11 @@
 
 若本文件还不够，再下钻或上推：
 
-- 具体原句、原文措辞、来源页码 → `./source_archive/character_rawcut.md`，必要时按 `./source_archive/source_index.md` 下钻到 `./source_archive/units/`
+- 具体原句、原文措辞、来源页码 → 当前包无法完成原文回查；仅在另外补齐 `./source_archive/character_rawcut.md`、`./source_archive/source_index.md` 与相应 `units/` 后下钻。
 - 高层思想、价值结构、哲学展开 → `./analysis.md`
-- 涉及外部概念坐标（哲学谱系、神学结构、政治哲学、文学母题）→ `./analysis.md` 再叠加 `./theme.md`
+- 涉及外部概念坐标（哲学谱系、神学结构、政治哲学、文学母题）→ `./analysis.md`；本包无 `theme.md`，不虚构外部文献依据。
 
 冲突处理：
 
-- canon 与 `./source_archive/` 冲突 → 以 `./source_archive/` 为准。
+- canon 与实际提供的原始来源冲突 → 以原始来源为准。
 - canon 与 `./analysis.md` 张力较大 → 较贴近文本的写法优先。
